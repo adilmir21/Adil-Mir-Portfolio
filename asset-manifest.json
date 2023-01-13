@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Adil-Mir-Portfolio/static/css/main.7a6e7aad.css",
+    "main.js": "/Adil-Mir-Portfolio/static/js/main.2e544a91.js",
+    "static/media/portfolio.jpg": "/Adil-Mir-Portfolio/static/media/portfolio.e653122c195961b5c38f.jpg",
+    "static/media/work5.png": "/Adil-Mir-Portfolio/static/media/work5.3a50814ed00b0086ac5f.png",
+    "static/media/Poppins-Medium.ttf": "/Adil-Mir-Portfolio/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/work4.png": "/Adil-Mir-Portfolio/static/media/work4.11eb7aef82922a53ff92.png",
+    "static/media/work3.png": "/Adil-Mir-Portfolio/static/media/work3.9066bf8f15047f13359b.png",
+    "static/media/work1.png": "/Adil-Mir-Portfolio/static/media/work1.e73d5779366c540ea43a.png",
+    "static/media/Resume.pdf": "/Adil-Mir-Portfolio/static/media/Resume.6b38fcc506930d2fec78.pdf",
+    "index.html": "/Adil-Mir-Portfolio/index.html",
+    "main.7a6e7aad.css.map": "/Adil-Mir-Portfolio/static/css/main.7a6e7aad.css.map",
+    "main.2e544a91.js.map": "/Adil-Mir-Portfolio/static/js/main.2e544a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6e7aad.css",
+    "static/js/main.2e544a91.js"
+  ]
+}
